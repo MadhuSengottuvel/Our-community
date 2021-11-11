@@ -138,6 +138,9 @@ export default function Signup() {
                       <MenuItem value={"Politician"}>Politician</MenuItem>
                       <MenuItem value={"Water Service"}>Water Service</MenuItem>
                       <MenuItem value={"Doctor"}>Doctor</MenuItem>
+                      <MenuItem value={"Gym Trainer"}>Gyn Trainer</MenuItem>
+                      <MenuItem value={"Dietician"}>Dietician</MenuItem>
+                      <MenuItem value={"Plumber"}>Plumber</MenuItem>
                       <MenuItem value={"Lawyer"}>Lawyer</MenuItem>
                       <MenuItem value={"IT"}>IT</MenuItem>
                       <MenuItem value={"Pilot"}>Pilot</MenuItem>

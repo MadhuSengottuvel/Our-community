@@ -33,7 +33,9 @@ export default function PublicAgent() {
     "Politician",
     "Water Service",
     "Doctor",
-    ""
+    "Dietician",
+    "Gym Trainer",
+    "Plumber"
   ];
   const defaultOptions = {
     loop: true,
